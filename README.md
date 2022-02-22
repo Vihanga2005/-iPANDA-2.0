@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://i.ibb.co/5TcNfYx/logo.jpg" width="200" height="200">
-  <h1>🐼 GARFIELD</h1>
+  <h1>🐼 iPANDA</h1>
 </div>
 <p align="center">
     NOIZE project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
@@ -32,7 +32,7 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://replit.com/@zenoi/ZENOI-QR-GENERATOR?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zenoixnoize/GARFIELD-3.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vihanga2005/-iPANDA-2.0)
 
 ### The Hard Method
 ```js
