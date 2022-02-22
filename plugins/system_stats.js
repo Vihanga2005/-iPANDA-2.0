@@ -19,7 +19,7 @@ const Lang = Language.getString('system_stats');
 if (Config.STANDPLK == 'off' || Config.STANDPLK == 'OFF') {
 if (Config.WORKTYPE == 'private') {
 
-    MyPnky.addCommand({pattern: 'panda', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    MyPnky.addCommand({pattern: 'project', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
         
         let pp
         try { pp = await message.client.getProfilePicture(message.jid.includes('-') ? message.data.participant : message.jid ); } catch { pp = await message.client.getProfilePicture(); }
