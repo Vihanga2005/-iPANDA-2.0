@@ -3,7 +3,7 @@
 ----
 
 <div align="center">
-  <img src="https://i.ibb.co/5TcNfYx/logo.jpg" width="200" height="200">
+  <img src="https://i.ibb.co/gdk3Vhs/IMG-20220218-084605-951.jpg" width="300" height="300">
   <h1>🐼 iPANDA</h1>
 </div>
 <p align="center">
