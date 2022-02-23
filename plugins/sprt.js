@@ -1,60 +1,15 @@
 const Asena = require('../events');
-
-
-2
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
-
-
-3
 const fs = require('fs');
-
-
-4
 const axios = require('axios');
 
+Asena.addCommand({pattern: 'project', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
-5
-
-
-
-6
-Asena.addCommand({pattern: 'ipanda', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
-
-
-7
-
-
-
-8
     var r_text = new Array ();    
-
-
-9
-r_text[0] = "*iPANDA BOT INSPIRED BY GARFIELD 3.0                            Special thanks                                 🐼@Bailays                                     🐼@afnanpalikkal                               🐼@yusufunta                                  🐼@Farhan                                     🐼@hasindu                                    🐼@Lasindunethsara*";
-
-
-10
-r_text[1] = "*iPANDA BOT INSPIRED BY GARFIELD 3.0                             Special thanks                                 🐼@Bailays                                     🐼@afnanpalikkal                               🐼@yusufunta                                  🐼@Farhan                                     🐼@hasindu                                    🐼@Lasindunethsara*                         🐼@Tharindu Liyanage";
-
-
-11
+r_text[0] = "*Development*\n\n*⚙️Tharindu Liyanage(ZENOI)*\n*⚙️Vihanga nethmina*\n*⚙️Afna palikkal*\n*⚙️Bailays*\n*⚙️Yusufunta*\n\n*Helpers*\n*📊 Lasindu Nethsara*\n*📊 Hasindu Dinushan*\n\n*Follow us 💬*\n*facebook*\n *https://www.facebook.com/garfieldbots/*";
+r_text[1] = "*Development*\n\n*⚙️Tharindu Liyanage(ZENOI)*\n*⚙️Vihanga nethmina*\n*⚙️Afna palikkal*\n*⚙️Bailays*\n*⚙️Yusufunta*\n\n*Helpers*\n*📊 Lasindu Nethsara*\n*📊 Hasindu Dinushan*\n\n*Follow us 💬*\n*facebook*\n *https://www.facebook.com/garfieldbots/*";
 var i = Math.floor(2*Math.random())
 
-
-12
-
-
-
-13
 await message.sendMessage(r_text[i]);
 
-
-14
-
-
-
-15
 }));
-
-
-16
