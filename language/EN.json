@@ -241,8 +241,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update for pinky.",
-            "UPDATE": "ʏᴏᴜʀ ɢᴀʀꜰɪᴇʟᴅ ɪꜱ ᴄᴏᴍᴘʟᴇᴛᴇʟʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ",
-            "NEW_UPDATE": "*New update available for garfield!*\n\n ```use .alive for commands``` \n\n *ask support group before updating or your bot might stop working* \n\n https://t.me/ipanda project \n\n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
+            "UPDATE": "```Garfield Updating  to latest version      coded by Tharindu Liyanage - https://www.facebook.com/zenoixnoize```",
+            "NEW_UPDATE": "*New update available for iPanda!*\n\n ```use .alive for commands``` \n\n *ask support group before updating or your bot might stop working* \n\n https://t.me/ipanda project \n\n *-if bot stop working you will have to re-deploy* \n\n Updates are:\n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```ipanda Updating```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
